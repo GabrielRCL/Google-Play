@@ -1,0 +1,85 @@
+V2.2 =================
+•Loot Separator Added in tab "Looter"
+•Bug Fixes
+•Added Combo to MS and ED
+Priority COMBO:
+Druid:
+Tera Hur > Frigo Hur > UE Frigo > UE Tera > Rune > Spell Target
+
+Sorcerer:
+Flam Hur > Vis Hur >  UE FIRE > UE VIS > Rune > Spell Target
+
+V2.1 ===================
+•Added New itens to Loot Separator (name is "Steam")
+•Now Save Configs to Loot Separator
+
+
+V2.0 ====================
+•Added New executable to Loot Separator (name is "Steam")
+
+V1.9.1 and V1.9.2 ==================
+•Fix Bugs
+
+V.1.9 ===================
+• Added Button to change to OLD UTAMO VITA (to otserver)
+
+V.1.8.5 ===================
+• Added Button to change to Old and New Sio Config
+
+V.1.8.4 ===================
+• Adicionado duas opções ao ManaShield da aba "Support" (renovar a cada 14segundos ou renovar somente quando estiver sem utamo)
+• Agora o ManaShield nem o Utani Hur é usado em Protect Zone
+
+V.1.8.3 (BETA) ===================
+• Adicionado mais opções na aba TankMode
+• RuneMaker em construção (já está desenhado e configurado as variaveis - só falta script)
+• Combo RP
+• Agora não precisa colocar a resolução na hora de logar, apenas escolher OtServer ou Global
+• Melhoria de Desempenho no Healing (reação mais rapida e menos delay)
+• Nova aba de SIO (Agora não preicsa mais pegar coordenadas só escolher a % do primeiro/segundo player e uma hotkey pra cura + Sio agora não buffa se nao tiver player)
+
+V1.8 ==================
+• Added Soul War (Fear & Root) in Tab "Support"
+• Updates Performace
+• Fixed Bug Pause Macro Hotkey
+
+V1.7 ==================
+•Added Mass Healing in tab "Heal Friend" (only ed)
+
+
+V1.6 ===================
+•Added Tab "Looter"
+
+V1.5 ===================
+•Fixed Bug on Coordinates
+
+•Added Tab "PvP"
+1-Flower
+2-Trash
+3-Push Item to BP
+
+•Added Tab "Exaust"
+1-Attack Exaust
+
+V1.4 ===================
+•Added Config Screen Resolution:
+1-HD
+2-FULL HD
+
+V1.3 ===================
+•Priorities for functions in the following order:
+1- TankMode
+2- Sio
+3- Healing
+4- Support
+
+V1.2 ===================
+•Added Auto Combo to EK
+
+
+V1.1 ===================
+•Increase delay to press key (20~80ms to 150~200ms)
+
+
+V1.0 ===================
+•Added All Vocations in one executable
